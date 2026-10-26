@@ -1,0 +1,33 @@
+{
+  "name": "respira",
+  "displayName": "Respira for WordPress",
+  "version": "1.4.5",
+  "description": "Edit WordPress sites with Claude in the site's own page builder: Elementor, Divi, Bricks, Gutenberg and more. Every edit is snapshotted first, published pages change on a draft you approve, and any change is one restore away.",
+  "author": {
+    "name": "Respira",
+    "email": "word@respira.press",
+    "url": "https://www.respira.press"
+  },
+  "homepage": "https://www.respira.press/integrations/claude",
+  "repository": "https://github.com/respira-press/cowork-plugin-wordpress",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "page-builders",
+    "elementor",
+    "divi",
+    "bricks",
+    "gutenberg",
+    "oxygen",
+    "breakdance",
+    "beaver-builder",
+    "woocommerce",
+    "seo",
+    "agency"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.respira.press/docs",
+  "supportUrl": "https://www.respira.press/community",
+  "privacyPolicyUrl": "https://www.respira.press/privacy",
+  "termsOfServiceUrl": "https://www.respira.press/terms"
+}
